@@ -1,3 +1,3 @@
 # Rfunctions
 
-Here a some R function that are sometimes needed in my data analysis projects.
+Here a some R functions that are sometimes needed in my data analysis projects.
